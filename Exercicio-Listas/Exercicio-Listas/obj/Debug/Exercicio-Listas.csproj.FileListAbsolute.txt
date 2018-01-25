@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Exercicio-Listas\Exercicio-Listas\obj\Debug\Exercicio-Listas.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Exercicio-Listas\Exercicio-Listas\bin\Debug\Exercicio-Listas.exe.config
+C:\Users\Administrator\source\repos\Exercicio-Listas\Exercicio-Listas\bin\Debug\Exercicio-Listas.exe
+C:\Users\Administrator\source\repos\Exercicio-Listas\Exercicio-Listas\bin\Debug\Exercicio-Listas.pdb
+C:\Users\Administrator\source\repos\Exercicio-Listas\Exercicio-Listas\obj\Debug\Exercicio-Listas.exe
+C:\Users\Administrator\source\repos\Exercicio-Listas\Exercicio-Listas\obj\Debug\Exercicio-Listas.pdb

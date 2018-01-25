@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Conjunto\Conjunto\bin\Debug\Conjunto.exe.config
+C:\Users\Administrator\source\repos\Conjunto\Conjunto\bin\Debug\Conjunto.exe
+C:\Users\Administrator\source\repos\Conjunto\Conjunto\bin\Debug\Conjunto.pdb
+C:\Users\Administrator\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.exe
+C:\Users\Administrator\source\repos\Conjunto\Conjunto\obj\Debug\Conjunto.pdb

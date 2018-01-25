@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\nichollas\nichollas\bin\Debug\nichollas.exe.config
+C:\Users\Administrator\source\repos\nichollas\nichollas\bin\Debug\nichollas.exe
+C:\Users\Administrator\source\repos\nichollas\nichollas\bin\Debug\nichollas.pdb
+C:\Users\Administrator\source\repos\nichollas\nichollas\obj\Debug\nichollas.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\nichollas\nichollas\obj\Debug\nichollas.Form1.resources
+C:\Users\Administrator\source\repos\nichollas\nichollas\obj\Debug\nichollas.Properties.Resources.resources
+C:\Users\Administrator\source\repos\nichollas\nichollas\obj\Debug\nichollas.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\nichollas\nichollas\obj\Debug\nichollas.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\nichollas\nichollas\obj\Debug\nichollas.exe
+C:\Users\Administrator\source\repos\nichollas\nichollas\obj\Debug\nichollas.pdb

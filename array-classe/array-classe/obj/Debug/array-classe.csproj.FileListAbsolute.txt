@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\array-classe\array-classe\bin\Debug\array-classe.exe.config
+c:\users\administrator\source\repos\array-classe\array-classe\bin\Debug\array-classe.exe
+c:\users\administrator\source\repos\array-classe\array-classe\bin\Debug\array-classe.pdb
+c:\users\administrator\source\repos\array-classe\array-classe\obj\Debug\array-classe.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\array-classe\array-classe\obj\Debug\array-classe.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\array-classe\array-classe\obj\Debug\array-classe.exe
+c:\users\administrator\source\repos\array-classe\array-classe\obj\Debug\array-classe.pdb

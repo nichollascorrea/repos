@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\ExemploSwitch\ExemploSwitch\bin\Debug\ExemploSwitch.exe.config
+c:\users\administrator\source\repos\ExemploSwitch\ExemploSwitch\bin\Debug\ExemploSwitch.exe
+c:\users\administrator\source\repos\ExemploSwitch\ExemploSwitch\bin\Debug\ExemploSwitch.pdb
+c:\users\administrator\source\repos\ExemploSwitch\ExemploSwitch\obj\Debug\ExemploSwitch.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\ExemploSwitch\ExemploSwitch\obj\Debug\ExemploSwitch.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\ExemploSwitch\ExemploSwitch\obj\Debug\ExemploSwitch.exe
+c:\users\administrator\source\repos\ExemploSwitch\ExemploSwitch\obj\Debug\ExemploSwitch.pdb

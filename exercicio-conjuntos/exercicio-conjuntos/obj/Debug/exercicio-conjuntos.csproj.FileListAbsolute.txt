@@ -1,0 +1,6 @@
+c:\users\administrator\source\repos\exercicio-conjuntos\exercicio-conjuntos\bin\Debug\exercicio-conjuntos.exe.config
+c:\users\administrator\source\repos\exercicio-conjuntos\exercicio-conjuntos\bin\Debug\exercicio-conjuntos.exe
+c:\users\administrator\source\repos\exercicio-conjuntos\exercicio-conjuntos\bin\Debug\exercicio-conjuntos.pdb
+c:\users\administrator\source\repos\exercicio-conjuntos\exercicio-conjuntos\obj\Debug\exercicio-conjuntos.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\exercicio-conjuntos\exercicio-conjuntos\obj\Debug\exercicio-conjuntos.exe
+c:\users\administrator\source\repos\exercicio-conjuntos\exercicio-conjuntos\obj\Debug\exercicio-conjuntos.pdb

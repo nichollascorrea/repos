@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\ESTOQUE\ESTOQUE\bin\Debug\ESTOQUE.exe.config
+c:\users\administrator\source\repos\ESTOQUE\ESTOQUE\bin\Debug\ESTOQUE.exe
+c:\users\administrator\source\repos\ESTOQUE\ESTOQUE\bin\Debug\ESTOQUE.pdb
+c:\users\administrator\source\repos\ESTOQUE\ESTOQUE\obj\Debug\ESTOQUE.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\ESTOQUE\ESTOQUE\obj\Debug\ESTOQUE.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\ESTOQUE\ESTOQUE\obj\Debug\ESTOQUE.exe
+c:\users\administrator\source\repos\ESTOQUE\ESTOQUE\obj\Debug\ESTOQUE.pdb

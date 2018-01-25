@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\EXERCICIO-BANCO\EXERCICIO-BANCO\bin\Debug\EXERCICIO-BANCO.exe.config
+c:\users\administrator\source\repos\EXERCICIO-BANCO\EXERCICIO-BANCO\bin\Debug\EXERCICIO-BANCO.exe
+c:\users\administrator\source\repos\EXERCICIO-BANCO\EXERCICIO-BANCO\bin\Debug\EXERCICIO-BANCO.pdb
+c:\users\administrator\source\repos\EXERCICIO-BANCO\EXERCICIO-BANCO\obj\Debug\EXERCICIO-BANCO.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\EXERCICIO-BANCO\EXERCICIO-BANCO\obj\Debug\EXERCICIO-BANCO.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\EXERCICIO-BANCO\EXERCICIO-BANCO\obj\Debug\EXERCICIO-BANCO.exe
+c:\users\administrator\source\repos\EXERCICIO-BANCO\EXERCICIO-BANCO\obj\Debug\EXERCICIO-BANCO.pdb

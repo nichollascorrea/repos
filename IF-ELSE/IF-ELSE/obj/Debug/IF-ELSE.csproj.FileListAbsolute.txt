@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\IF-ELSE\IF-ELSE\bin\Debug\IF-ELSE.exe.config
+c:\users\administrator\source\repos\IF-ELSE\IF-ELSE\bin\Debug\IF-ELSE.exe
+c:\users\administrator\source\repos\IF-ELSE\IF-ELSE\bin\Debug\IF-ELSE.pdb
+c:\users\administrator\source\repos\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.exe
+c:\users\administrator\source\repos\IF-ELSE\IF-ELSE\obj\Debug\IF-ELSE.pdb

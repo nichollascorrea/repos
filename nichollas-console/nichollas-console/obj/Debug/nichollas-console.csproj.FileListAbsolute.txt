@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\nichollas-console\nichollas-console\bin\Debug\nichollas-console.exe.config
+c:\users\administrator\source\repos\nichollas-console\nichollas-console\bin\Debug\nichollas-console.exe
+c:\users\administrator\source\repos\nichollas-console\nichollas-console\bin\Debug\nichollas-console.pdb
+c:\users\administrator\source\repos\nichollas-console\nichollas-console\obj\Debug\nichollas-console.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\nichollas-console\nichollas-console\obj\Debug\nichollas-console.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\nichollas-console\nichollas-console\obj\Debug\nichollas-console.exe
+c:\users\administrator\source\repos\nichollas-console\nichollas-console\obj\Debug\nichollas-console.pdb

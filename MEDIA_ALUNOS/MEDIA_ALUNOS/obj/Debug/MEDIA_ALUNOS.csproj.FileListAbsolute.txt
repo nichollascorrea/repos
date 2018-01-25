@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\MEDIA_ALUNOS\MEDIA_ALUNOS\bin\Debug\MEDIA_ALUNOS.exe.config
+c:\users\administrator\source\repos\MEDIA_ALUNOS\MEDIA_ALUNOS\bin\Debug\MEDIA_ALUNOS.exe
+c:\users\administrator\source\repos\MEDIA_ALUNOS\MEDIA_ALUNOS\bin\Debug\MEDIA_ALUNOS.pdb
+c:\users\administrator\source\repos\MEDIA_ALUNOS\MEDIA_ALUNOS\obj\Debug\MEDIA_ALUNOS.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\MEDIA_ALUNOS\MEDIA_ALUNOS\obj\Debug\MEDIA_ALUNOS.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\MEDIA_ALUNOS\MEDIA_ALUNOS\obj\Debug\MEDIA_ALUNOS.exe
+c:\users\administrator\source\repos\MEDIA_ALUNOS\MEDIA_ALUNOS\obj\Debug\MEDIA_ALUNOS.pdb

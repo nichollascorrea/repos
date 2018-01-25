@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\exercicio-array-hostel\exercicio-array-hostel\bin\Debug\exercicio-array-hostel.exe.config
+c:\users\administrator\source\repos\exercicio-array-hostel\exercicio-array-hostel\bin\Debug\exercicio-array-hostel.exe
+c:\users\administrator\source\repos\exercicio-array-hostel\exercicio-array-hostel\bin\Debug\exercicio-array-hostel.pdb
+c:\users\administrator\source\repos\exercicio-array-hostel\exercicio-array-hostel\obj\Debug\exercicio-array-hostel.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\exercicio-array-hostel\exercicio-array-hostel\obj\Debug\exercicio-array-hostel.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\exercicio-array-hostel\exercicio-array-hostel\obj\Debug\exercicio-array-hostel.exe
+c:\users\administrator\source\repos\exercicio-array-hostel\exercicio-array-hostel\obj\Debug\exercicio-array-hostel.pdb

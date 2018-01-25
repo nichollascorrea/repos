@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\SALARIO\SALARIO\bin\Debug\SALARIO.exe.config
+c:\users\administrator\source\repos\SALARIO\SALARIO\bin\Debug\SALARIO.exe
+c:\users\administrator\source\repos\SALARIO\SALARIO\bin\Debug\SALARIO.pdb
+c:\users\administrator\source\repos\SALARIO\SALARIO\obj\Debug\SALARIO.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\SALARIO\SALARIO\obj\Debug\SALARIO.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\SALARIO\SALARIO\obj\Debug\SALARIO.exe
+c:\users\administrator\source\repos\SALARIO\SALARIO\obj\Debug\SALARIO.pdb
