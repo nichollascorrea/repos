@@ -31,6 +31,7 @@ namespace Conjunto
             //A.UnionWith(B);
 
             //interseção
+            //testando verisonamento git
             A.IntersectWith(B);
 
             foreach (int a in A)
