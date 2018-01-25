@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F8AAE132-AB45-4BE0-9795-DC768A36C214}</ProjectGuid>
+    <ProjectGuid>{47481334-C04D-4B4C-9D63-FB42CDADFDEA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ESTOQUE</RootNamespace>
-    <AssemblyName>ESTOQUE</AssemblyName>
+    <RootNamespace>programa</RootNamespace>
+    <AssemblyName>programa</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,10 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ESTOQUE.cs" />
-    <Compile Include="fornecedor.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="programa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

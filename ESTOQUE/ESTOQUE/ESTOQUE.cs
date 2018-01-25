@@ -12,7 +12,7 @@ namespace ESTOQUE
         public string nome { get; private set; }
         public double preco { get; private set; }
         public int quantidadeEmEstoque { get; private set; }
-
+        public Fornecedor fornecedor { get; private set; }
 
 
         public double valorTotalEmEstoque()
@@ -21,19 +21,21 @@ namespace ESTOQUE
 
         }
 
-        public Produto(string nome, double preco, int quantidadeEmEstoque)
+        public Produto(string nome, double preco, int quantidadeEmEstoque, Fornecedor fornecedor)
         {
             this.nome = nome;
             this.preco = preco;
             this.quantidadeEmEstoque = quantidadeEmEstoque;
+            this.fornecedor = fornecedor;
         }
 
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco, Fornecedor fornecedor)
         {
             this.nome = nome;
             this.preco = preco;
             this.quantidadeEmEstoque = 0;
+            this.fornecedor = fornecedor;
         }
 
 
@@ -54,7 +56,9 @@ namespace ESTOQUE
                 + ", "
                 + quantidadeEmEstoque
                 + " unidades, Total: R$"
-                + valorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+                + valorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)
+                + ", Fornecedor: "
+                + fornecedor;
         }
 
 
